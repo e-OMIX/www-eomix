@@ -24,4 +24,4 @@ In subsequent development steps, we will implement scalable semi-automated stati
 
 ## Funding
 
-This project is supported by the **European Regional Development Fund (ERDF)**
+e-OMIX is a **WAL-IMAGIN** project is supported by the **European Regional Development Fund (ERDF)**
