@@ -1,7 +1,6 @@
 ---
 title: "  "
 toc: false
-fontsize: 1.5em
 ---
 
 ![](eOMIX_logo_long.jpg){fig-alt="e-OMIX logo" fig-align="center" width="50%"}
