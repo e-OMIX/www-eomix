@@ -3,6 +3,8 @@ title: "Team"
 editor: visual
 page-layout: full
 toc: false
+format: html
+fontsize: 1.5em
 ---
 
 ### Laurent Gatto, PhD

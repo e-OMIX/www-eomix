@@ -2,7 +2,7 @@
 title: "Jobs"
 editor: visual
 format: html
-fontsize: 1em
+  
 toc: false
 ---
 
