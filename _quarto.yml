@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title : "e-OMIX"
+  favicon: eOMIX_logo_short.jpg
+  cookie-consent: 
+    type: implied
+    style: simple
+    palette: light
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - project.qmd
+      - team.qmd
+      - jobs.qmd
+      - contact.qmd
+  search: false
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+    page-layout: full
+    fontsize : 1.1em
+
+prefer-html: true

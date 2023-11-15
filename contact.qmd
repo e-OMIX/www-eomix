@@ -1,0 +1,20 @@
+---
+title: "Contacts"
+editor: source
+format:
+  html: default
+---
+
+[Conctact us](mailto:contact@eomix.be?subject=Contact "Contact")
+
+**Adress:**\
+Square des Martyrs 1\
+6000 CHARLEROI\
+Belgium
+
+```{r echo = FALSE}
+library(leaflet)
+leaflet() %>%
+addTiles() %>% 
+addMarkers(lng=4.438906, lat=50.405283, popup="e-OMIX")
+```

@@ -1,0 +1,87 @@
+---
+title: "Jobs"
+editor: source
+format: 
+  html: default
+  docx: default
+toc: false
+---
+
+e-OMIX has open positions for two collaborators.
+
+# **Full-stack developper (m/f/x)**
+
+### *Role*
+
+-   Build bioinformatics pipelines processing single-omics data (mass spectrometry, high-throughput sequencing, etc.)
+-   Implement specific cloud-based storage and computation
+-   Develop solutions for the exchange and interoperability of large biological datasets (in accordance with HL7 FIHR standards)
+-   Develop and deploy specific modules to optimize experimental workflow, such as Quality Control or sample tracing.
+-   Help with designing automated or semi-automated statistical analyses
+
+### *Qualifications*
+
+-   PhD in computer science, engineering, or related field, or Master's degree with significant work experience (5 years)
+-   Demonstrable experience with the following tools:
+    -   Object-oriented language (R, Python, C++, or similar language)
+    -   Database queries (PostgreSQL)
+    -   Development of web-responsive applications (Spring, Vue.js, Bootstrap...)
+    -   Collaborative research software development (e.g., unit testing, version control, continuous integration, Git, etc.)
+    -   Cloud architecture
+-   Interest for biological or medical research
+-   Ability to work both autonomously and within a team
+-   Good written and oral communication skills, english proficiency
+
+### *Additional assets*
+
+-   Experience in biology, bioinformatics, healthcare informatics, or in any position involving biological or medical data
+-   Experience with Kubernetes or Docker Swarm
+-   Knowledge of R Bioconductor package
+-   Familiarity with open-source software distribution
+
+### *We offer:*
+
+-   A collaborative work environment: The project is conjointly led by the Computational Biology (CBIO) and Computer Engineering (INGI) units from UCLouvain and will involve other major academic actors.
+-   The collaborator will be partly based in the [A6K startup incubator](https://www.a6k.be "A6K") in Charleroi, and partly home-based (with occasional travels to UCLouvain's Brussels or Louvain-La-Neuve campuses)
+-   Flexible workhours
+-   Reimbursement of travel expenses
+
+### *Application*
+
+Candidates are invited to send their application (resume and cover letter) to the [following e-mail address](mailto:contact@eomix.be) by March 1^st^ 2024.
+
+\
+
+# **Bioinformatician (m/f/x)**
+
+### *Role*
+
+-   Establish bioinformatics pipelines for preprocessing single-omics data (filtering, normalization, control of batch effect, quality control, etc.)
+-   Adhere to interoperability standards established by the FIHR consortium Ensure compatibility of omics data collected across different platforms and research groups by implanting HL7 FIHR standards.
+-   Integrate different types of omics data to favor a multiomics approach
+-   Conceive and automate supervised (regression, variable selection, etc.) or unsupervised (network analyses, clustering, PCA, etc.) statistical analyses.
+
+### *Qualifications*
+
+-   Master's degree in bioinformatics, statistics, computer sciences, biomedical sciences, bio-engineering, or equivalent
+-   Experience and/or keen interest in one or several of the following:
+-   One or multiple omics experimental technologies, data processing analysis and/or interpretation
+    -   interest in developing solutions for the exchange of biomedical data and in multicentric initiatives
+    -   solid background in statistics, machine learning/artificial intelligence
+    -   knowledge of one or more programming language (e.g., Rmarkdown, Python, BASH, etc.) and IDE (R, Jupyter notebooks, etc.)
+    -   collaborative research software development (e.g., unit testing, version control, continuous integration, Git, etc.)
+    -   experience in R/Bioconductor data structures, in particular those used for omics data analysis (e.g., *SummarizedExperiment*, *SingleCellExperiment*, *QFeatures*, etc.)
+    -   open and reproducible research
+    -   contribution to an open and inclusive research environment
+    -   good written and oral communication skills, english proficiency
+
+### *We offer:*
+
+-   A collaborative work environment: The project is conjointly led by the Computational Biology (CBIO) and Computer Engineering (INGI) units from UCLouvain and will involve other major academic actors.
+-   The collaborator will be partly based in the [A6K startup incubator](https://www.a6k.be "A6K") in Charleroi, and partly home-based, (with occasional travels to UCLouvain's Brussels or Louvain-La-Neuve campuses)
+-   Flexible workhours
+-   Reimbursement of travel expenses
+
+### *Application*
+
+Candidates are invited to send their application (resume and cover letter) to the [following e-mail address](mailto:contact@eomix.be) by March 1^st^ 2024.
