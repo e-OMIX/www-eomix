@@ -3,7 +3,6 @@ title: "Jobs"
 editor: source
 format: 
   html: default
-  #docx: default
 toc: false
 ---
 
