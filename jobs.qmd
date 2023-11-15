@@ -1,8 +1,9 @@
 ---
 title: "Jobs"
-editor: visual
-format: html
-  
+editor: source
+format: 
+  html: default
+  docx: default
 toc: false
 ---
 
