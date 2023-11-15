@@ -3,7 +3,7 @@ title: "  "
 toc: false
 format:
   html: default
-  docx: default
+  #docx: default
 ---
 
 ![](eOMIX_logo_long.jpg){fig-alt="e-OMIX logo" fig-align="center" width="50%"}

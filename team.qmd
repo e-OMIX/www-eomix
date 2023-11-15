@@ -5,7 +5,7 @@ page-layout: full
 toc: false
 format:
   html: default
-  docx: default
+  #docx: default
 fontsize: 1.5em
 ---
 
