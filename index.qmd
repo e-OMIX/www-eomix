@@ -1,0 +1,18 @@
+---
+title: "  "
+toc: false
+fontsize: 2em
+---
+
+![](eOMIX_logo_long.jpg){fig-alt="e-OMIX logo" fig-align="center" width="50%"}
+
+The e-OMIX project aims to develop and deploy a cutting-edge bioinformatic hub that meets the demand for integrated multiomics data solutions.
+
+With the recent development of different type of "omics" methods (technologies able to characterize and quantify entire spectra of biomolecular content, such as DNA- and RNA-sequencing, mass spectrometry applied to proteins, etc.), biologists have been able to generate large datasets accounting for a wide range of cellular processes. Integrating these different streams of data however, revealed to be an arduous task, both for technical and theoretical reasons.
+
+e-OMIX strives to overcome these obstacles by combining the integration, management, storage, sharing and analysis of different types of multiomics data in a single platform. The end product will be a set of open-source tools tailored for local academic institutions, healthcare networks and R&D departments conducting either fundamental or applied research, with the ambition to drive the development of new therapeutics, help identifying novel biomarkers, and accelerate the comprehension of complex cellular processes.
+
+\
+\
+
+[![](logo_UCLouvain_format_jpg_RVB.jpg){fig-alt="UCLouvain" width="50%"}](https://www.uclouvain.be/)[![](logo_UE+wallonie+FWB.jpg){fig-alt="En Mieux - UE - Wallonie" width="50%"}](https://www.enmieux.be/)

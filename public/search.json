@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "jobs.html",
+    "href": "jobs.html",
+    "title": "Jobs",
+    "section": "",
+    "text": "[ON PAUSE]"
+  },
+  {
+    "objectID": "jobs.html#role",
+    "href": "jobs.html#role",
+    "title": "Jobs",
+    "section": "Role",
+    "text": "Role\nThe person will :\n\ndo this\ndo that\netc."
+  },
+  {
+    "objectID": "jobs.html#qualifications",
+    "href": "jobs.html#qualifications",
+    "title": "Jobs",
+    "section": "Qualifications",
+    "text": "Qualifications\nWe are looking for candidates the following qualifications:\n\nthis qualification\nthat qualification"
+  },
+  {
+    "objectID": "jobs.html#additional-assets",
+    "href": "jobs.html#additional-assets",
+    "title": "Jobs",
+    "section": "Additional assets",
+    "text": "Additional assets\nThe ideal candidates will also have experience with one or more of the following:\n\nthis field\nthat field\n\nBrief description of job advantages"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Person 1\n\n\n\n\n\nPhD in … , UCLouvain, 2023\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nPerson 1’s personal website\n\n\nPerson 2\n\n\n\n\n\nPhD in … , UCLouvain, 2023\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nPerson 2’s personal website"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "Conctact us\nAdress:\nSquare des Martyrs 1\n6000 CHARLEROI\nBelgium"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "e-OMIX",
+    "section": "",
+    "text": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”\n————————————————————————"
+  },
+  {
+    "objectID": "project.html#state-of-the-art",
+    "href": "project.html#state-of-the-art",
+    "title": "Project",
+    "section": "State-of-the-art",
+    "text": "State-of-the-art\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "project.html#goal",
+    "href": "project.html#goal",
+    "title": "Project",
+    "section": "Goal",
+    "text": "Goal\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "project.html#funding",
+    "href": "project.html#funding",
+    "title": "Project",
+    "section": "Funding",
+    "text": "Funding\nFunding sources"
+  }
+]

@@ -1,0 +1,73 @@
+---
+title: "Jobs"
+editor: visual
+toc: false
+---
+
+e-OMIX is hiring a **Full-stack developper (m/f/x).**
+
+\
+
+### Role:
+
+The senior computer specialist (m/f/x) will contribute to:
+
+-   Building bioinformatics pipelines processing and integrating different types of raw omics data generated from specific instruments (mass spectrometry, high-troughput sequencing, etc.)
+
+-   Developing solutions sharing and interoperability of large datasets (in accordance with H7 FIHR guidelines)
+
+- Implement experiment-specific modules for QC, sample tracing or other related issues. 
+
+-   Implanting automated or semi-automated statistical analyses
+
+\
+
+### Qualifications:
+
+We are looking for candidates the following qualifications:
+
+-   PhD in computer science, engineering, data science or related field
+
+-   Significant work experience in with the following tools:
+
+    -   Object-oriented language (R, Python, C++, or similar language)
+    
+    -   Database queries (PostgreSQL)
+    
+    - Development of web-responsives applications (Spring, Vue.js, Bootstrap…)
+
+    -   Collaborative software development platform and version control (Git)
+
+    -   Cloud architecture
+
+-   Interest for biomedical data and topics
+
+-   Ability to work both autonomously and within a team
+
+-   Software development know-how (anticipating and troubleshooting technical difficulties)
+
+-   English proficiency
+
+\
+
+### Additional assets:
+
+-   Experience in biology, bioinformatics, healthcare informatics or pharmaceutical industry
+-   Experience with Kubernetes or Docker Swarm
+-   Knowledge with R Bioconductor package
+-   Familiarity with open-source software distribution
+-   French proficiency
+
+\
+
+### We offer:
+
+-   Hybrid work, partly onsite in Charleroi (located within [A6K facilities](https://www.a6k.be/facilities "A6K")), partly from home, and occasionally on UCLouvain's Brussels or Louvain-La-Neuve campuses
+-   Flexible workhours
+-   A collaborative work environment: The project is conjointly led by the Computational Biology (CBIO) and Computer Engineering (INGI) units from UCLouvain and will involve other major academic actors.
+
+\
+
+### Application:
+
+Candidates can send their application (resume and cover letter) at the [following e-mail address](mailto:contact@eomix.be) by March 1^st^ 2024.
