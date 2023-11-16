@@ -22,3 +22,12 @@ Laurent Gatto is the head of the CBIO group at UCLouvain and teaches bioinformat
 Sébastien Jodogne is Professor of Computer Science applied to Life Sciences at UCLouvain. An expert in e-Health, he is particularly active in the fields of medical imaging, image analysis and patient education.
 
 [Sébastien Jodogne's webpage](https://www.info.ucl.ac.be/~sjodogne/ "Sébastien Jodogne")
+
+\
+
+### Jérôme Linden, PhD
+
+Jérôme is attached to UCLouvain's CBIO's lab and is the project manager for the e-OMIX platform. 
+
+
+
