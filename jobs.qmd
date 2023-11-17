@@ -8,7 +8,7 @@ toc: false
 
 e-OMIX has currently open positions for three collaborators.
 
-# **Senior Full-stack Engineer (m/f/x)**
+# **Senior Full Stack Software Engineer (m/f/x)**
 
 ### *Role*
 
@@ -21,12 +21,12 @@ e-OMIX has currently open positions for three collaborators.
 ### *Qualifications*
 
 -   PhD in computer science, engineering or equivalent, or Master's degree with significant work experience (5 years)
--   Demonstrable experience with the following tools:
-    -   Object-oriented language (R, Python, C++, or similar language)
-    -   Database queries (PostgreSQL)
-    -   Development of web-responsive applications (Spring, Vue.js, Bootstrap...)
-    -   Collaborative research software development (e.g., unit testing, version control, continuous integration, Git, etc.)
-    -   Cloud architecture
+-   Demonstrable experience with the following tools: -- Object-oriented programming (Java or C++)
+    -   Data science, machine learning (Python), and/or statistical computing (R)
+    -   Databases (PostgreSQL)
+    -   Responsive Web applications (Spring, Vue.js, Bootstrap, etc.)
+    -   Professional software development (e.g., unit testing, version control, continuous integration, Git, etc.)
+    -   Cloud architectures
 -   Interest for biological or medical research
 -   Ability to work both autonomously and within a team
 -   Good written and oral communication skills, english proficiency
@@ -51,7 +51,7 @@ Candidates are invited to send their application (resume and cover letter) to th
 
 \
 
-# **Junior Full-stack Engineer (m/f/x)**
+# **Junior Full Stack Software Engineer (m/f/x)**
 
 ### *Role*
 
@@ -65,11 +65,12 @@ Candidates are invited to send their application (resume and cover letter) to th
 
 -   Master's degree in computer science, engineering, or equivalent
 -   Demonstrable experience with the following tools:
-    -   Object-oriented language (R, Python, C++, or similar language)
-    -   Database queries (PostgreSQL)
-    -   Development of web-responsive applications (Spring, Vue.js, Bootstrap...)
-    -   Collaborative research software development (e.g., unit testing, version control, continuous integration, Git, etc.)
-    -   Cloud architecture
+    -   Object-oriented programming (Java or C++)
+    -   Data science, machine learning (Python), and/or statistical computing (R)
+    -   Databases (PostgreSQL)
+    -   Responsive Web applications (Spring, Vue.js, Bootstrap, etc.)
+    -   Professional software development (e.g., unit testing, version control, continuous integration, release cycles, Git, etc.)
+    -   Cloud architectures
 -   Interest for biological or medical research
 -   Ability to work both autonomously and within a team
 -   Good written and oral communication skills, english proficiency
@@ -91,6 +92,8 @@ Candidates are invited to send their application (resume and cover letter) to th
 ### *Application*
 
 Candidates are invited to send their application (resume and cover letter) to the [following e-mail address](mailto:contact@eomix.be) by March 1^st^ 2024.
+
+\
 
 # **Bioinformatician (m/f/x)**
 
