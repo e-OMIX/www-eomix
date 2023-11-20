@@ -34,7 +34,7 @@ e-OMIX has currently open positions for three collaborators.
 ### *Additional assets*
 
 -   Experience in biology, bioinformatics, healthcare informatics, or in any position involving biological or medical data
--   Experience with Kubernetes or Docker Swarm
+-   Experience with Kubernetes/Docker Swarm, RESTful APIs
 -   Knowledge of R Bioconductor package
 -   Familiarity with open-source software distribution
 
@@ -78,7 +78,7 @@ Candidates are invited to send their application (resume and cover letter) at [j
 ### *Additional assets*
 
 -   Experience in biology, bioinformatics, healthcare informatics, or in any position involving biological or medical data
--   Experience with Kubernetes or Docker Swarm
+-   Experience with Kubernetes/Docker Swarm, RESTful APIs
 -   Knowledge of R Bioconductor package
 -   Familiarity with open-source software distribution
 
