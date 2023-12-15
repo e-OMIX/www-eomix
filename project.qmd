@@ -4,7 +4,6 @@ editor: source
 toc: false
 format:
   html: default
-
 ---
 
 ![](eOMIX_logo_long.jpg){fig-alt="e-OMIX logo" fig-align="center" width="50%"}
@@ -29,4 +28,10 @@ In subsequent development steps, the platform will include scalable semi-automat
 
 ## Funding
 
-e-OMIX is a **WAL-IMAGIN** project and is supported by the **European Regional Development Fund (ERDF)**
+e-OMIX is part of the **WAL-IMAGIN** portfolio.
+
+Financial support is provided by:
+
+-   [WalEurope, a collaboration between European Regional Development Fund (ERDF) and the Wallonian Region](https://europe.wallonie.be)
+
+-   ["En Mieux", a regional initative to promote research and innovation](www.enmieux.be "En Mieux")
