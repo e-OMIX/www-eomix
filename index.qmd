@@ -18,4 +18,3 @@ e-OMIX strives to overcome these obstacles by combining the integration, managem
 
 [![](logo_UCLouvain_format_jpg_RVB.jpg){fig-alt="UCLouvain" width="50%"}](https://www.uclouvain.be/)[![](logo_UE+wallonie+FWB.jpg){fig-alt="En Mieux - UE - Wallonie" width="50%"}](https://www.enmieux.be/)
 
-a

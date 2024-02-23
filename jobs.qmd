@@ -48,11 +48,9 @@ e-OMIX has currently open positions for three collaborators.
 
 ### *Application*
 
-<<<<<<< Updated upstream
-Candidates are invited to send their application (CV and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before** **February 17^th^ 2024**.
-=======
+
 Candidates are invited to send their application (CV and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before** **March 5^th^ 2024**.
->>>>>>> Stashed changes
+
 
 \
 
@@ -97,11 +95,8 @@ Candidates are invited to send their application (CV and cover letter) at [jobs\
 
 ### *Application*
 
-<<<<<<< Updated upstream
-Candidates are invited to send their application (resume and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before** **February 17^th^ 2024**.
-=======
 Candidates are invited to send their application (resume and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before March 5^th^ 2024**.
->>>>>>> Stashed changes
+
 
 \
 
@@ -138,8 +133,5 @@ Candidates are invited to send their application (resume and cover letter) at [j
 
 ### *Application*
 
-<<<<<<< Updated upstream
-Candidates are invited to send their application (resume and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before** **February 17^th^ 2024**.
-=======
 Candidates are invited to send their application (resume and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before** **March 5^th^ 2024**.
->>>>>>> Stashed changes
+
