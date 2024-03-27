@@ -13,5 +13,5 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 PythonType: system
-PythonVersion: 3.11.6
+PythonVersion: 3.12.2
 PythonPath: /opt/homebrew/bin/python3
