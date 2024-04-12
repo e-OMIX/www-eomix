@@ -86,7 +86,7 @@ Candidates are invited to send their application (CV and cover letter) at [jobs\
     -   Solid background in statistics, machine learning or artificial intelligence.
     -   Knowledge of one or more programming language (e.g., R Markdown, Python, BASH, etc.) and IDE (R, Jupyter notebooks, etc.)
     -   Collaborative research software development (e.g., unit testing, version control, continuous integration, Git, etc.)
-    -   experience in R/Bioconductor data structures, in particular those used for omics data analysis (e.g., *SummarizedExperiment*, *SingleCellExperiment*, *QFeatures*, etc.)
+    -   Experience in R/Bioconductor data structures, in particular those used for omics data analysis (e.g., *SummarizedExperiment*, *SingleCellExperiment*, *QFeatures*, etc.)
     -   Open and reproducible research.
     -   Contribution to an open and inclusive research environment.
     -   Good written and oral communication skills, English proficiency.
