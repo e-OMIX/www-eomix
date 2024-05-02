@@ -6,9 +6,9 @@ format:
 toc: false
 ---
 
-e-OMIX has currently open positions for three collaborators.
+e-OMIX has currently one open position:
 
-# **Junior/Senior Full Stack Software Engineer (m/f/x)**
+# **Senior Full Stack Software Engineer (m/f/x)**
 
 ### *Role*
 
@@ -21,7 +21,7 @@ e-OMIX has currently open positions for three collaborators.
 
 ### *Qualifications*
 
--   PhD or master’s degree with at least five years of work experience (senior position), or master’s degree (junior position) in computer science, software engineering, or any related field.
+-   PhD or master’s degree with at least five years of work experience in computer science, software engineering, or any related field.
 
 -   Demonstrable experience with the following tools:
 
@@ -64,43 +64,4 @@ e-OMIX has currently open positions for three collaborators.
 
 ### *Application*
 
-Candidates are invited to send their application (CV and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before May 3^rd^ 2024**.
-
-# 
-
-# **Bioinformatician (m/f/x)**
-
-### *Role*
-
--   Establish bioinformatics pipelines for preprocessing single-omics data (filtering, normalization, control of batch effect, quality control, etc.)
--   Adhere to interoperability standards established by the FIHR consortium Ensure compatibility of omics data collected across different platforms and research groups by implanting HL7 FIHR standards.
--   Integrate different types of omics data to favor a multiomics approach
--   Conceive and automate supervised (regression, variable selection, etc.) or unsupervised (network analyses, clustering, PCA, etc.) statistical analyses.
-
-### *Qualifications*
-
--   Master's degree in bioinformatics, statistics, computer sciences, biomedical sciences, bio-engineering, or equivalent.
--   Experience and/or keen interest in one or several of the following:
-    -   One or multiple omics experimental technologies, data processing analysis and/or interpretation.
-    -   Interest in developing solutions for the exchange of biomedical data and in multicentric initiatives
-    -   Solid background in statistics, machine learning or artificial intelligence.
-    -   Knowledge of one or more programming language (e.g., R Markdown, Python, BASH, etc.) and IDE (R, Jupyter notebooks, etc.)
-    -   Collaborative research software development (e.g., unit testing, version control, continuous integration, Git, etc.)
-    -   Experience in R/Bioconductor data structures, in particular those used for omics data analysis (e.g., *SummarizedExperiment*, *SingleCellExperiment*, *QFeatures*, etc.)
-    -   Open and reproducible research.
-    -   Contribution to an open and inclusive research environment.
-    -   Good written and oral communication skills, English proficiency.
-
-### Our offer
-
--   A collaborative work environment: The project is conjointly led by the Computational Biology (CBIO) and Computer Engineering (INGI) units from UCLouvain and will involve other major academic actors,
--   Hybrid schedule (up to 50% of remote work)
--   On-site work in the [A6K startup incubator](https://www.a6k.be) in Charleroi, with occasional travels to UCLouvain’s Brussels or Louvain-La-Neuve campuses
--   Flexible work hours.
--   Competitive salary.
--   One-year fixed-term contract, with a possibility of extension.
--   Reimbursement of public transportation cost or bike plan.
-
-### *Application*
-
-Candidates are invited to send their application (resume and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before May 3^rd^ 2024**.
+Candidates are invited to send their application (CV and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before May 6^th^ 2024**.
