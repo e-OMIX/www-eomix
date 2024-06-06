@@ -25,11 +25,11 @@ e-OMIX has currently one open position:
 
 -   Demonstrable experience with the following tools:
 
-    -   Object-oriented programming (Python, Java, or C++)
+    -   Object-oriented programming (Java, Python, or C++)
 
     -   Data science, machine learning and/or statistical computing (Python or R)
 
-    -   Databases (PostgreSQL) –
+    -   Databases (PostgreSQL, TileDB) –
 
     -   Responsive Web applications (Spring, Vue.js, Bootstrap, etc.)
 
@@ -64,4 +64,4 @@ e-OMIX has currently one open position:
 
 ### *Application*
 
-Candidates are invited to send their application (CV and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before May 6^th^ 2024**.
+Candidates are invited to send their application (CV and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before September 2^nd^ 2024**.
