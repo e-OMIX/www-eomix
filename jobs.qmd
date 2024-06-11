@@ -29,7 +29,7 @@ e-OMIX has currently one open position:
 
     -   Data science, machine learning and/or statistical computing (Python or R)
 
-    -   Databases (PostgreSQL, TileDB) –
+    -   Databases (PostgreSQL, TileDB)
 
     -   Responsive Web applications (Spring, Vue.js, Bootstrap, etc.)
 
