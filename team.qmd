@@ -27,7 +27,17 @@ Sébastien Jodogne is Professor of Computer Science applied to Life Sciences at 
 
 ### Jérôme Linden, PhD
 
-Jérôme is attached to UCLouvain's CBIO's lab and is the project manager for the e-OMIX platform. 
+Jérôme Linden is e-Omix’ project manager and is experienced with data analysis and omics technologies applied to neuroscience 
 
+\
+
+### Loïc Guille, MSc
+
+Loïc Guille is a bioinformatics research engineer, specialized in the analysis and visualization of single-cell RNA sequencing 
+
+\
+
+### Axelle Loriot, PhD
+Axelle Loriot is a senior researcher in the field of transcriptomics and epigenomics, and is e-Omix's consulting expert.
 
 
