@@ -1,0 +1,67 @@
+---
+title: "Jobs"
+editor: source
+format: 
+  html: default
+toc: false
+---
+
+e-OMIX has currently one open position:
+
+# **Senior Full Stack Software Engineer (m/f/x)**
+
+### *Role*
+
+-   Develop solutions for the storage, exchange, and interoperability of large biological datasets.
+-   Provide insight on the platform architecture and development.
+-   Implement pre-built bioinformatics pipelines processing single- and multiomics data.
+-   Help with designing automated or semi-automated statistical analyses.
+-   Develop and deploy specific modules to optimize experimental workflow, such as Quality Control or sample tracing.
+-   Supervise and interact with other team members to coordinate project development (junior developer and bioinformaticians).
+
+### *Qualifications*
+
+-   PhD or master’s degree with at least five years of work experience in computer science, software engineering, or any related field.
+
+-   Demonstrable experience with the following tools:
+
+    -   Object-oriented programming (Java, Python, or C++)
+
+    -   Data science, machine learning and/or statistical computing (Python or R)
+
+    -   Databases (PostgreSQL, TileDB)
+
+    -   Responsive Web applications (Spring, Vue.js, Bootstrap, etc.)
+
+    -   Cloud architectures
+
+    -   Professional software development (e.g., unit testing, version control, continuous integration, release cycles, Git, etc.)
+
+-   Interest for biological or medical research
+
+-   Ability to work both autonomously and within a team
+
+-   Good written and oral communication skills, english proficiency
+
+### *Additional assets*
+
+-   Experience in biology, bioinformatics, or health informatics,
+-   Containerization (Kubernetes or Docker Swarm) and virtual machines.
+-   REST APIs.
+-   Health data interoperability standards (HL7 FHIR).
+-   Knowledge of R’s Bioconductor environment.
+-   Familiarity with open-source software distribution.
+
+### *Our offer*
+
+-   A collaborative work environment: The project is conjointly led by the Computational Biology (CBIO) and Computer Engineering (INGI) units from UCLouvain and will involve other major academic actors.
+-   Hybrid schedule (up to 50% of remote work).
+-   On-site work in the [A6K startup incubator](https://www.a6k.be) in Charleroi, with occasional travels to UCLouvain’s Brussels or Louvain-La-Neuve campuses.
+-   Flexible work hours.
+-   Competitive salary.
+-   One-year fixed-term contract, with a possibility of extension.
+-   Reimbursement of public transportation cost or bike plan.
+
+### *Application*
+
+Candidates are invited to send their application (CV and cover letter) at [jobs\@eomix.be](mailto:jobs@eomix.be) **before September 2^nd^ 2024**.
