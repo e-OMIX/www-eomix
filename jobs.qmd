@@ -6,4 +6,4 @@ format:
 toc: false
 ---
 
-e-OMIX has currently no open position.
+e-OMIX has currently no open positions.
