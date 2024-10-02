@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>e-OMIX - Team</title>
+<title>Team – e-OMIX</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -87,7 +87,7 @@ cookieconsent.run({
     <span class="navbar-title">e-OMIX</span>
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -114,7 +114,7 @@ cookieconsent.run({
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -150,31 +150,27 @@ cookieconsent.run({
 <h3 class="anchored" data-anchor-id="laurent-gatto-phd">Laurent Gatto, PhD</h3>
 <p>Laurent Gatto is the head of the CBIO group at UCLouvain and teaches bioinformatics in the Faculty of Pharmacy and Biomedical Sciences (FASB).</p>
 <p><a href="https://lgatto.github.io/cbio-lab/" title="CBIO lab">CBIO’s webpage</a></p>
-<p><br>
-</p>
 </section>
 <section id="sébastien-jodogne-phd" class="level3">
 <h3 class="anchored" data-anchor-id="sébastien-jodogne-phd">Sébastien Jodogne, PhD</h3>
 <p>Sébastien Jodogne is Professor of Computer Science applied to Life Sciences at UCLouvain. An expert in e-Health, he is particularly active in the fields of medical imaging, image analysis and patient education.</p>
 <p><a href="https://www.info.ucl.ac.be/~sjodogne/" title="Sébastien Jodogne">Sébastien Jodogne’s webpage</a></p>
-<p><br>
-</p>
 </section>
 <section id="jérôme-linden-phd" class="level3">
 <h3 class="anchored" data-anchor-id="jérôme-linden-phd">Jérôme Linden, PhD</h3>
-<p>Jérôme Linden is e-Omix’ project manager and is experienced with data analysis and omics technologies applied to neuroscience.</p>
-<p><br>
-</p>
+<p>Jérôme Linden is the project coordinator for e-OMIX and is experienced with data analysis and omics technologies applied to neuroscience.</p>
 </section>
-<section id="loïc-guille-msc" class="level3">
-<h3 class="anchored" data-anchor-id="loïc-guille-msc">Loïc Guille, MSc</h3>
+<section id="loïc-guille" class="level3">
+<h3 class="anchored" data-anchor-id="loïc-guille">Loïc Guille</h3>
 <p>Loïc Guille is a bioinformatics research engineer, specialized in the analysis and visualization of single-cell RNA sequencing.</p>
-<p><br>
-</p>
+</section>
+<section id="molka-anaghim-ftouhi" class="level3">
+<h3 class="anchored" data-anchor-id="molka-anaghim-ftouhi">Molka Anaghim Ftouhi</h3>
+<p>Molka Anaghim Ftouhi is a Software Engineer with professional experience in software and website development.</p>
 </section>
 <section id="axelle-loriot-phd" class="level3">
 <h3 class="anchored" data-anchor-id="axelle-loriot-phd">Axelle Loriot, PhD</h3>
-<p>Axelle Loriot is a senior researcher in the field of transcriptomics and epigenomics, and is e-Omix’s consulting expert.</p>
+<p>Axelle Loriot is a senior researcher in the field of transcriptomics and epigenomics, and is e-OMIX’ consulting expert.</p>
 
 
 </section>
@@ -215,18 +211,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -258,7 +243,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -266,7 +273,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
