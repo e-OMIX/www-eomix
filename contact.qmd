@@ -5,7 +5,7 @@ format:
   html: default
 ---
 
-[Conctact us](mailto:contact@eomix.be?subject=Contact "Contact")
+[Conctact us](mailto:jerome.linden@uclouvain.be?subject=Contact "Contact e-OMIX")
 
 **Adress:**\
 Square des Martyrs 1\
