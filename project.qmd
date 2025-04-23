@@ -24,6 +24,10 @@ Such an endeavor however comes with significant hurdles. An example of these obs
 
 In subsequent development steps, the platform will include scalable semi-automated statistical analyses to identify pertinent networks, hubs, and links between cellular constituents. Finally, e-OMIX will be able to incorporate clinical data as well, providing enhanced insights into both normal and pathological phenotypes. As an integrated tool, e-OMIX could then be leveraged to advance our understanding of cell biology, identify new biomarkers, and facilitate therapeutic developments.
 
+## Download e-OMIX
+
+Download link will be available soon. 
+
 \
 
 ## Funding
