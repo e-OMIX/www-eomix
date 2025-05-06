@@ -30,6 +30,12 @@ In subsequent development steps, the platform will include scalable semi-automat
 
 \
 
+## Download
+
+Download link will be available soon.
+
+\
+
 ## Funding
 
 e-OMIX is part of the **WAL-IMAGIN** portfolio.
