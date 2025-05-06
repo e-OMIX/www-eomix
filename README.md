@@ -1,1 +1,1 @@
-e-OMIX webpage: www.e-omix.be
+e-OMIX webpage: www.eomix.be
