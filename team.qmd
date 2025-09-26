@@ -15,23 +15,33 @@ Laurent Gatto is the head of the CBIO group at UCLouvain and teaches bioinformat
 
 [CBIO's webpage](https://lgatto.github.io/cbio-lab/ "CBIO lab")
 
+\
+
 ### Sébastien Jodogne, PhD
 
 Sébastien Jodogne is Professor of Computer Science applied to Life Sciences at UCLouvain. An expert in e-Health, he is particularly active in the fields of medical imaging, image analysis and patient education.
 
 [Sébastien Jodogne's webpage](https://www.info.ucl.ac.be/~sjodogne/ "Sébastien Jodogne")
 
+\
+
 ### Jérôme Linden, PhD
 
 Jérôme Linden is the project coordinator for e-OMIX and is experienced with data analysis and omics technologies applied to neuroscience.
+
+\\
 
 ### Loïc Guille
 
 Loïc Guille is a bioinformatics research engineer, specialized in the analysis and visualization of single-cell RNA sequencing.
 
+\\
+
 ### Molka Anaghim Ftouhi
 
 Molka Anaghim Ftouhi is a Software Engineer with professional experience in software and website development.
+
+\\
 
 ### Axelle Loriot, PhD
 

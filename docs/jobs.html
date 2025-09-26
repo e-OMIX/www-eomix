@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-988525f66b4b91486a5576c7fa0f8dc8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -146,7 +146,38 @@ cookieconsent.run({
 </header>
 
 
-<p>e-OMIX has currently no open positions.</p>
+<p>e-OMIX has currently an opening for a <strong>Bioinformatician (m/f/x)</strong></p>
+<p>e-OMIX is a project in bioinformatics and computer sciences co-led by two research groups at UCLouvain. Its main objective is to build and deploy a platform to analyze and explore omics data.&nbsp;&nbsp;We are looking for an experienced bioinformatician/computational biologist to overview the development, testing and implementation of omics analysis workflows, and integrate them with innovative database solutions.</p>
+<p>UCLouvain is a French-speaking university present in six different locations, with a recently established campus in Charleroi. With a multicultural and multilingual environment, UCLouvain hosts students and researchers from around the world. The university is highly ranked internationally and is a major employer in Wallonia and in Brussels. UCLouvain operates faculties, research institutes, and administration to fulfill the three missions of teaching, research, and service to society.</p>
+<p><em>Role</em></p>
+<ul>
+<li><p>Establish bioinformatics pipelines for end-to-end processing of single-omics data (genome alignment, peptide identification, features filtering, normalization, control of batch effect, QC, etc.)</p></li>
+<li><p>Explore multi-omics data integration strategies with unsupervised analyses (e.g., MOFA, scGLUE, etc.)</p></li>
+<li><p>Develop visualization modules for visual exploration of bulk, single cell, and spatially resolved data</p></li>
+</ul>
+<p><em>Qualifications</em></p>
+<ul>
+<li><p>Master’s degree (Master 120) in bioinformatics, statistics, computer sciences, biomedical sciences, bio-engineering, or closely related field</p></li>
+<li><p>Programming language for biological data analyses (R or Python); Additional experience in bash or JAVA is an asset, as well as in related IDEs (RStudio, VSCode, Jupyter Notebooks, etc.)</p></li>
+<li><p>Software development practices: CI/CD, unit testing, versioning (Git), containerization (Docker)</p></li>
+<li><p>Databases for large datasets (Zarr, TileDB, Parquet, DuckDB, etc.)</p></li>
+<li><p>Familiarity with the Bioconductor ecosystem and data structures (<em>SummarizedExperiment</em>,&nbsp;<em>SingleCellExperiment,</em> etc.); Seurat, scverse or similar libraries.</p></li>
+<li><p>Workflow management tools (nextflow, snakemake)</p></li>
+<li><p>Background in statistics, machine learning, and/or artificial intelligence</p></li>
+<li><p>Interest in open science, reproducible research, FAIR data practices</p></li>
+<li><p>Contribution to an open and inclusive research environment</p></li>
+<li><p>Good written and oral communication skills, English proficiency</p></li>
+</ul>
+<p><em>Our offer</em></p>
+<ul>
+<li><p>A collaborative work environment: The project is a joint initiative of the Computational Biology and Bioinformatics unit (CBIO) and the Laboratory for Medical Informatics (LIMe) at UCLouvain and will involve other major academic actors in Belgium.</p></li>
+<li><p>The collaborator will be based partly at the&nbsp;<a href="https://www.a6k.be/">A6K startup incubator</a>&nbsp;in Charleroi and partly working from home, with occasional travels to the UCLouvain campuses in Brussels and Louvain-La-Neuve.</p></li>
+<li><p>Flexible work hours</p></li>
+<li><p>Funding is available until December 2026.</p></li>
+<li><p>Reimbursement of public transportation costs + bicycle plan</p></li>
+</ul>
+<p><em>Application</em></p>
+<p>Candidates are invited to send their application (CV and cover letter detailing programming skills and scientific achievements) to <a href="mailto:jerome.linden@uclouvain.be">jerome.linden@uclouvain.be</a></p>
 
 
 
@@ -233,8 +264,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -345,7 +374,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

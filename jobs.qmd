@@ -6,4 +6,54 @@ format:
 toc: false
 ---
 
-e-OMIX has currently no open positions.
+e-OMIX has currently an opening for a **Bioinformatician (m/f/x)**
+
+e-OMIX is a project in bioinformatics and computer sciences co-led by two research groups at UCLouvain. Its main objective is to build and deploy a platform to analyze and explore omics data.  We are looking for an experienced bioinformatician/computational biologist to overview the development, testing and implementation of omics analysis workflows, and integrate them with innovative database solutions.
+
+UCLouvain is a French-speaking university present in six different locations, with a recently established campus in Charleroi. With a multicultural and multilingual environment, UCLouvain hosts students and researchers from around the world. The university is highly ranked internationally and is a major employer in Wallonia and in Brussels. UCLouvain operates faculties, research institutes, and administration to fulfill the three missions of teaching, research, and service to society.
+
+*Role*
+
+-   Establish bioinformatics pipelines for end-to-end processing of single-omics data (genome alignment, peptide identification, features filtering, normalization, control of batch effect, QC, etc.)
+
+-   Explore multi-omics data integration strategies with unsupervised analyses (e.g., MOFA, scGLUE, etc.)
+
+-   Develop visualization modules for visual exploration of bulk, single cell, and spatially resolved data
+
+*Qualifications*
+
+-   Master’s degree (Master 120) in bioinformatics, statistics, computer sciences, biomedical sciences, bio-engineering, or closely related field
+
+-   Programming language for biological data analyses (R or Python); Additional experience in bash or JAVA is an asset, as well as in related IDEs (RStudio, VSCode, Jupyter Notebooks, etc.)
+
+-   Software development practices: CI/CD, unit testing, versioning (Git), containerization (Docker)
+
+-   Databases for large datasets (Zarr, TileDB, Parquet, DuckDB, etc.)
+
+-   Familiarity with the Bioconductor ecosystem and data structures (*SummarizedExperiment*, *SingleCellExperiment,* etc.); Seurat, scverse or similar libraries.
+
+-   Workflow management tools (nextflow, snakemake)
+
+-   Background in statistics, machine learning, and/or artificial intelligence
+
+-   Interest in open science, reproducible research, FAIR data practices
+
+-   Contribution to an open and inclusive research environment
+
+-   Good written and oral communication skills, English proficiency
+
+*Our offer*
+
+-   A collaborative work environment: The project is a joint initiative of the Computational Biology and Bioinformatics unit (CBIO) and the Laboratory for Medical Informatics (LIMe) at UCLouvain and will involve other major academic actors in Belgium.
+
+-   The collaborator will be based partly at the [A6K startup incubator](https://www.a6k.be/) in Charleroi and partly working from home, with occasional travels to the UCLouvain campuses in Brussels and Louvain-La-Neuve.
+
+-   Flexible work hours
+
+-   Funding is available until December 2026.
+
+-   Reimbursement of public transportation costs + bicycle plan
+
+*Application*
+
+Candidates are invited to send their application (CV and cover letter detailing programming skills and scientific achievements) to [jerome.linden\@uclouvain.be](mailto:jerome.linden@uclouvain.be)

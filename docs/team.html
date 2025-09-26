@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c98b807e374b71dd3683882f09f92b24.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -150,23 +150,30 @@ cookieconsent.run({
 <h3 class="anchored" data-anchor-id="laurent-gatto-phd">Laurent Gatto, PhD</h3>
 <p>Laurent Gatto is the head of the CBIO group at UCLouvain and teaches bioinformatics in the Faculty of Pharmacy and Biomedical Sciences (FASB).</p>
 <p><a href="https://lgatto.github.io/cbio-lab/" title="CBIO lab">CBIO’s webpage</a></p>
+<p><br>
+</p>
 </section>
 <section id="sébastien-jodogne-phd" class="level3">
 <h3 class="anchored" data-anchor-id="sébastien-jodogne-phd">Sébastien Jodogne, PhD</h3>
 <p>Sébastien Jodogne is Professor of Computer Science applied to Life Sciences at UCLouvain. An expert in e-Health, he is particularly active in the fields of medical imaging, image analysis and patient education.</p>
 <p><a href="https://www.info.ucl.ac.be/~sjodogne/" title="Sébastien Jodogne">Sébastien Jodogne’s webpage</a></p>
+<p><br>
+</p>
 </section>
 <section id="jérôme-linden-phd" class="level3">
 <h3 class="anchored" data-anchor-id="jérôme-linden-phd">Jérôme Linden, PhD</h3>
 <p>Jérôme Linden is the project coordinator for e-OMIX and is experienced with data analysis and omics technologies applied to neuroscience.</p>
+<p>\</p>
 </section>
 <section id="loïc-guille" class="level3">
 <h3 class="anchored" data-anchor-id="loïc-guille">Loïc Guille</h3>
 <p>Loïc Guille is a bioinformatics research engineer, specialized in the analysis and visualization of single-cell RNA sequencing.</p>
+<p>\</p>
 </section>
 <section id="molka-anaghim-ftouhi" class="level3">
 <h3 class="anchored" data-anchor-id="molka-anaghim-ftouhi">Molka Anaghim Ftouhi</h3>
 <p>Molka Anaghim Ftouhi is a Software Engineer with professional experience in software and website development.</p>
+<p>\</p>
 </section>
 <section id="axelle-loriot-phd" class="level3">
 <h3 class="anchored" data-anchor-id="axelle-loriot-phd">Axelle Loriot, PhD</h3>
@@ -258,8 +265,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -370,7 +375,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
