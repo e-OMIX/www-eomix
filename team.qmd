@@ -33,6 +33,10 @@ Loïc Guille is a bioinformatics research engineer, specialized in the analysis 
 
 Molka Anaghim Ftouhi is a Software Engineer with professional experience in software and website development.
 
+### Abirami Soundiramourtty, PhD
+
+Abirami Soundiramourtty is a bioinformatics research engineer with extensive experience in genomic and transcriptomic data analysis.
+
 ### Axelle Loriot, PhD
 
 Axelle Loriot is a senior researcher in the field of transcriptomics and epigenomics, and is e-OMIX' consulting expert.
