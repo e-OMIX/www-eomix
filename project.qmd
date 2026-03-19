@@ -28,8 +28,6 @@ After analysis , data can be explored using a series of interactive tools that p
 
 An working version of e-OMIX can be downloaded [here](https://github.com/e-OMIX/e-OMIX)
 
-\
-
 ## Funding
 
 e-OMIX is part of the **WAL-IMAGIN** portfolio.
