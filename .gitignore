@@ -5,3 +5,5 @@
 *.Rproj
 /.quarto/
 www-eomix.Rproj
+
+**/*.quarto_ipynb
