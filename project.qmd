@@ -10,7 +10,7 @@ format:
 
 \
 
-e-OMIX aims to offer a solution for the analysis management and exploration of omics data through an user-friendly interface.
+e-OMIX offers a solution for the analysis, management and exploration of omics data through an user-friendly interface.
 
 ## Metadata management and standardization.
 
@@ -22,7 +22,7 @@ e-OMIX offers a solution for bench biologists to perform routine analyses withou
 
 ## Visual exploration
 
-After analysis , data can be explored using a series of interactive tools that provide users with relevant biological insights. All plots can be parametrized and exported in a publication-ready format.  
+After analysis, data can be explored using a series of interactive tools that provide users with relevant biological insights. All plots can be parametrized and exported in a publication-ready format.  
 
 ## Download
 
