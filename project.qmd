@@ -28,9 +28,11 @@ e-OMIX offers a solution for bench biologists to perform routine analyses withou
 
 After analysis, data can be explored using a series of interactive tools that provide users with relevant biological insights. All plots can be parametrized and exported in a publication-ready format.  
 
+![](plots.png){fig-alt="Example of iSEE plots"}
+
 ## Download
 
-An working version of e-OMIX can be downloaded [here](https://github.com/e-OMIX/e-OMIX).
+A working version of e-OMIX can be downloaded [here](https://github.com/e-OMIX/e-OMIX).
 
 ## Funding
 
